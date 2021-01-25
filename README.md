@@ -23,6 +23,9 @@ https://pypi.org/project/ftransc/
 	pip install ftransc
 	brew install ffmpeg lame
 
+### test
+
+	ftransc  -f mp3 data/sample.ogg
 
 #### junk
 
